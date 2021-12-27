@@ -7,6 +7,10 @@ html,body{
 
 }
 
+@media only screen and (max-device-width: 480px) 
+{
+  body{width: 80vw}
+}
 
 body{
     background-color: #F0E5CF;
